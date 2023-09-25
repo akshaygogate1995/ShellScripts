@@ -3,7 +3,8 @@ John,30,New York
 Jane,25,Los Angeles
 Bob,35,Chicago
 
-You can use the following shell script to read and process this CSV data:
+**You can use the following shell script to read and process this CSV data:
+**
 
 #!/bin/bash
 
